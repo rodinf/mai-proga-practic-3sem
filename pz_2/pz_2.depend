@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637530520 source:c:\users\fedor\desktop\pavlov_proga\pz_2\main.cpp
+	<iostream>
+	"VeloArray.h"
+
+1637533472 c:\users\fedor\desktop\pavlov_proga\pz_2\include\veloarray.h
+
+1637533494 source:c:\users\fedor\desktop\pavlov_proga\pz_2\src\veloarray.cpp
+	<iostream>
+	<stdexcept>
+	<typeinfo>
+	<math.h>
+	"VeloArray.h"
+
